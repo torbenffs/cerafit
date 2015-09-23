@@ -1,2 +1,3 @@
-# cerafit
-Dingeling, bønda skjønner ingenting.
+﻿# cerafit
+
+- Forsøker å endre index.html via command-linjen.

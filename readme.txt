@@ -6,3 +6,7 @@
 
 #Lagt til tom css-fil for skalert.
 
+#Lagt til basic HTML for index.html.
+
+#Laget basic eksempel på side for produktbeskrivelse.
+
